@@ -1,0 +1,10 @@
+{
+  "plugins": [["component", [
+    {
+      "libraryName": "element-ui",
+      "styleLibraryName": "theme-default",
+      "libDir": "./cms/components",
+      "root": "index"
+    }
+  ]]]
+}
